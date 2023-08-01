@@ -1,0 +1,26 @@
+{
+  "name": "elenaidiota",
+  "version": "1.0.0",
+  "description": "elena es idiota",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panquemao/LIN-MATAO.git"
+  },
+  "keywords": [
+    "idiota",
+    "elena"
+  ],
+  "author": "Yo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panquemao/LIN-MATAO/issues"
+  },
+  "homepage": "https://github.com/panquemao/LIN-MATAO#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
