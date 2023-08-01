@@ -10,3 +10,6 @@ app.get("/", async (req, res) => {
 })
 
 app.listen(3000, "192.168.0.8", () => console.log("Server is running..."));
+
+//
+aaaa error colapso de server
